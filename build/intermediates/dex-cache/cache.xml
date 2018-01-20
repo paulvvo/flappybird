@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sleepy\Downloads\test\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="bcfac15f2b1c3d7d5d39b1a8088f7b6edcc21c5c">
+        <dex dex="C:\Users\Sleepy\Downloads\test\android\build\intermediates\pre-dexed\debug\core-1.0_e5e3a3fe579b0d06c2733b859fab76293f9d7e75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sleepy\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.8\a35a0076fbce873f9c2d5a1a1c8066244231bb3c\gdx-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a35a0076fbce873f9c2d5a1a1c8066244231bb3c">
+        <dex dex="C:\Users\Sleepy\Downloads\test\android\build\intermediates\pre-dexed\debug\gdx-1.9.8_39419f95079df016f55b5b9d945f1f95ef20f0b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sleepy\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.8\6f0497b7958216464101adfb7bdc3a0f7b88d6d3\gdx-box2d-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6f0497b7958216464101adfb7bdc3a0f7b88d6d3">
+        <dex dex="C:\Users\Sleepy\Downloads\test\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.8_219581016819a7134f8e79d3cff75076b0443945.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sleepy\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.8\84024cd60ad6f26370891fbcd17de9f0167e662\gdx-backend-android-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="084024cd60ad6f26370891fbcd17de9f0167e662">
+        <dex dex="C:\Users\Sleepy\Downloads\test\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.8_6b258bb07a2dee372d1f8f291cd473fff1af569f.jar" />
+    </item>
+
+</items>
